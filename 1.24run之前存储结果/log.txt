@@ -1,0 +1,657 @@
+handle json files: ['audiobeam_Mesh4x4_AIR1_free.json', 'autocor_Mesh8x8_AIR1_free.json', 'autocor_Mesh16x16_AIR1_free.json', 'audiobeam_Mesh16x16_AIR1_free.json', 'H264_Mesh4x4_AIR1_free.json', 'autocor_Mesh4x4_AIR1_free.json', 'H264_Mesh8x8_AIR1_free.json', 'fmradio_Mesh8x8_AIR1_free.json', 'fmradio_Mesh4x4_AIR1_free.json', 'fmradio_Mesh16x16_AIR1_free.json', 'H264_Mesh16x16_AIR1_free.json', 'audiobeam_Mesh8x8_AIR1_free.json']
+-------------
+current json is audiobeam_Mesh4x4_AIR1_free.json
+handle edge 1 to 2 now, cur transmission is 74 , source is 5 des is 9
+best split number is 3
+handle edge 2 to 4 now, cur transmission is 24 , source is 9 des is 6
+best split number is 4
+handle edge 4 to 6 now, cur transmission is 37 , source is 6 des is 11
+best split number is 3
+handle edge 4 to 7 now, cur transmission is 92 , source is 6 des is 3
+best split number is 1
+handle edge 4 to 8 now, cur transmission is 97 , source is 6 des is 15
+best split number is 2
+handle edge 4 to 9 now, cur transmission is 15 , source is 6 des is 5
+best split number is 1
+handle edge 4 to 10 now, cur transmission is 64 , source is 6 des is 9
+best split number is 1
+handle edge 4 to 11 now, cur transmission is 12 , source is 6 des is 1
+best split number is 3
+handle edge 4 to 12 now, cur transmission is 33 , source is 6 des is 4
+best split number is 3
+handle edge 4 to 13 now, cur transmission is 12 , source is 6 des is 13
+best split number is 3
+handle edge 4 to 14 now, cur transmission is 22 , source is 6 des is 10
+best split number is 2
+handle edge 4 to 15 now, cur transmission is 11 , source is 6 des is 8
+best split number is 1
+handle edge 4 to 16 now, cur transmission is 76 , source is 6 des is 7
+best split number is 1
+handle edge 4 to 17 now, cur transmission is 14 , source is 6 des is 2
+best split number is 1
+handle edge 4 to 18 now, cur transmission is 11 , source is 6 des is 0
+best split number is 2
+handle edge 4 to 19 now, cur transmission is 62 , source is 6 des is 14
+best split number is 1
+handle edge 4 to 20 now, cur transmission is 15 , source is 6 des is 12
+best split number is 1
+handle edge 6 to 5 now, cur transmission is 1 , source is 11 des is 6
+best split number is 1
+handle edge 8 to 5 now, cur transmission is 11 , source is 15 des is 6
+best split number is 2
+handle edge 7 to 5 now, cur transmission is 10 , source is 3 des is 6
+best split number is 1
+handle edge 10 to 5 now, cur transmission is 12 , source is 9 des is 6
+best split number is 1
+handle edge 9 to 5 now, cur transmission is 12 , source is 5 des is 6
+best split number is 2
+handle edge 16 to 5 now, cur transmission is 26 , source is 7 des is 6
+best split number is 2
+handle edge 14 to 5 now, cur transmission is 61 , source is 10 des is 6
+best split number is 3
+handle edge 12 to 5 now, cur transmission is 37 , source is 4 des is 6
+best split number is 2
+handle edge 15 to 5 now, cur transmission is 12 , source is 8 des is 6
+best split number is 1
+handle edge 19 to 5 now, cur transmission is 20 , source is 14 des is 6
+best split number is 2
+handle edge 17 to 5 now, cur transmission is 37 , source is 2 des is 6
+best split number is 1
+handle edge 11 to 5 now, cur transmission is 56 , source is 1 des is 6
+best split number is 1
+handle edge 20 to 5 now, cur transmission is 12 , source is 12 des is 6
+best split number is 1
+handle edge 13 to 5 now, cur transmission is 11 , source is 13 des is 6
+best split number is 1
+handle edge 18 to 5 now, cur transmission is 21 , source is 0 des is 6
+best split number is 1
+handle edge 5 to 21 now, cur transmission is 13 , source is 6 des is 1
+best split number is 3
+handle edge 21 to 3 now, cur transmission is 82 , source is 1 des is 4
+best split number is 3
+handle edge 3 to 22 now, cur transmission is 85 , source is 4 des is 13
+best split number is 3
+-------------
+-------------
+current json is autocor_Mesh8x8_AIR1_free.json
+handle edge 1 to 2 now, cur transmission is 190 , source is 27 des is 35
+best split number is 3
+handle edge 2 to 4 now, cur transmission is 70 , source is 35 des is 19
+best split number is 3
+handle edge 2 to 5 now, cur transmission is 140 , source is 35 des is 26
+best split number is 1
+handle edge 2 to 6 now, cur transmission is 130 , source is 35 des is 43
+best split number is 1
+handle edge 2 to 7 now, cur transmission is 70 , source is 35 des is 36
+best split number is 1
+handle edge 2 to 8 now, cur transmission is 60 , source is 35 des is 34
+best split number is 1
+handle edge 2 to 9 now, cur transmission is 100 , source is 35 des is 29
+best split number is 4
+handle edge 2 to 10 now, cur transmission is 80 , source is 35 des is 20
+best split number is 1
+handle edge 2 to 11 now, cur transmission is 100 , source is 35 des is 28
+best split number is 1
+handle edge 4 to 3 now, cur transmission is 70 , source is 19 des is 11
+best split number is 3
+handle edge 5 to 3 now, cur transmission is 70 , source is 26 des is 11
+best split number is 1
+handle edge 6 to 3 now, cur transmission is 40 , source is 43 des is 11
+best split number is 3
+handle edge 7 to 3 now, cur transmission is 90 , source is 36 des is 11
+best split number is 1
+handle edge 8 to 3 now, cur transmission is 50 , source is 34 des is 11
+best split number is 4
+handle edge 9 to 3 now, cur transmission is 100 , source is 29 des is 11
+best split number is 4
+handle edge 11 to 3 now, cur transmission is 80 , source is 28 des is 11
+best split number is 4
+handle edge 10 to 3 now, cur transmission is 40 , source is 20 des is 11
+best split number is 4
+handle edge 3 to 12 now, cur transmission is 210 , source is 11 des is 18
+best split number is 4
+-------------
+-------------
+current json is autocor_Mesh16x16_AIR1_free.json
+handle edge 1 to 2 now, cur transmission is 190 , source is 119 des is 135
+best split number is 3
+handle edge 2 to 4 now, cur transmission is 70 , source is 135 des is 103
+best split number is 3
+handle edge 2 to 5 now, cur transmission is 140 , source is 135 des is 118
+best split number is 1
+handle edge 2 to 6 now, cur transmission is 130 , source is 135 des is 151
+best split number is 1
+handle edge 2 to 7 now, cur transmission is 70 , source is 135 des is 136
+best split number is 1
+handle edge 2 to 8 now, cur transmission is 60 , source is 135 des is 134
+best split number is 1
+handle edge 2 to 9 now, cur transmission is 100 , source is 135 des is 121
+best split number is 4
+handle edge 2 to 10 now, cur transmission is 80 , source is 135 des is 104
+best split number is 1
+handle edge 2 to 11 now, cur transmission is 100 , source is 135 des is 120
+best split number is 1
+handle edge 4 to 3 now, cur transmission is 70 , source is 103 des is 87
+best split number is 3
+handle edge 5 to 3 now, cur transmission is 70 , source is 118 des is 87
+best split number is 1
+handle edge 10 to 3 now, cur transmission is 40 , source is 104 des is 87
+best split number is 4
+handle edge 6 to 3 now, cur transmission is 40 , source is 151 des is 87
+best split number is 3
+handle edge 9 to 3 now, cur transmission is 100 , source is 121 des is 87
+best split number is 4
+handle edge 8 to 3 now, cur transmission is 50 , source is 134 des is 87
+best split number is 4
+handle edge 7 to 3 now, cur transmission is 90 , source is 136 des is 87
+best split number is 4
+handle edge 11 to 3 now, cur transmission is 80 , source is 120 des is 87
+best split number is 4
+handle edge 3 to 12 now, cur transmission is 210 , source is 87 des is 102
+best split number is 4
+-------------
+-------------
+current json is audiobeam_Mesh16x16_AIR1_free.json
+handle edge 1 to 2 now, cur transmission is 74 , source is 119 des is 135
+best split number is 3
+handle edge 2 to 4 now, cur transmission is 24 , source is 135 des is 120
+best split number is 4
+handle edge 4 to 6 now, cur transmission is 37 , source is 120 des is 167
+best split number is 4
+handle edge 4 to 7 now, cur transmission is 92 , source is 120 des is 152
+best split number is 2
+handle edge 4 to 8 now, cur transmission is 97 , source is 120 des is 150
+best split number is 4
+handle edge 4 to 9 now, cur transmission is 15 , source is 120 des is 137
+best split number is 1
+handle edge 4 to 10 now, cur transmission is 64 , source is 120 des is 133
+best split number is 4
+handle edge 4 to 11 now, cur transmission is 12 , source is 120 des is 103
+best split number is 1
+handle edge 4 to 12 now, cur transmission is 33 , source is 120 des is 118
+best split number is 3
+handle edge 4 to 13 now, cur transmission is 12 , source is 120 des is 151
+best split number is 4
+handle edge 4 to 14 now, cur transmission is 22 , source is 120 des is 136
+best split number is 3
+handle edge 4 to 15 now, cur transmission is 11 , source is 120 des is 134
+best split number is 4
+handle edge 4 to 16 now, cur transmission is 76 , source is 120 des is 121
+best split number is 1
+handle edge 4 to 17 now, cur transmission is 14 , source is 120 des is 104
+best split number is 2
+handle edge 4 to 18 now, cur transmission is 11 , source is 120 des is 87
+best split number is 3
+handle edge 4 to 19 now, cur transmission is 62 , source is 120 des is 102
+best split number is 1
+handle edge 4 to 20 now, cur transmission is 15 , source is 120 des is 117
+best split number is 3
+handle edge 6 to 5 now, cur transmission is 1 , source is 167 des is 122
+best split number is 1
+handle edge 7 to 5 now, cur transmission is 10 , source is 152 des is 122
+best split number is 1
+handle edge 9 to 5 now, cur transmission is 12 , source is 137 des is 122
+best split number is 1
+handle edge 11 to 5 now, cur transmission is 56 , source is 103 des is 122
+best split number is 4
+handle edge 8 to 5 now, cur transmission is 11 , source is 150 des is 122
+best split number is 4
+handle edge 10 to 5 now, cur transmission is 12 , source is 133 des is 122
+best split number is 4
+handle edge 17 to 5 now, cur transmission is 37 , source is 104 des is 122
+best split number is 1
+handle edge 16 to 5 now, cur transmission is 26 , source is 121 des is 122
+best split number is 2
+handle edge 13 to 5 now, cur transmission is 11 , source is 151 des is 122
+best split number is 1
+handle edge 12 to 5 now, cur transmission is 37 , source is 118 des is 122
+best split number is 2
+handle edge 15 to 5 now, cur transmission is 12 , source is 134 des is 122
+best split number is 3
+handle edge 19 to 5 now, cur transmission is 20 , source is 102 des is 122
+best split number is 4
+handle edge 18 to 5 now, cur transmission is 21 , source is 87 des is 122
+best split number is 1
+handle edge 20 to 5 now, cur transmission is 12 , source is 117 des is 122
+best split number is 3
+handle edge 14 to 5 now, cur transmission is 61 , source is 136 des is 122
+best split number is 4
+handle edge 5 to 21 now, cur transmission is 13 , source is 122 des is 105
+best split number is 4
+handle edge 21 to 3 now, cur transmission is 82 , source is 105 des is 88
+best split number is 4
+handle edge 3 to 22 now, cur transmission is 85 , source is 88 des is 71
+best split number is 4
+-------------
+-------------
+current json is H264_Mesh4x4_AIR1_free.json
+handle edge 1 to 2 now, cur transmission is 8192 , source is 5 des is 9
+best split number is 3
+handle edge 2 to 3 now, cur transmission is 8192 , source is 9 des is 6
+best split number is 3
+handle edge 3 to 4 now, cur transmission is 8192 , source is 6 des is 1
+best split number is 3
+handle edge 4 to 5 now, cur transmission is 8192 , source is 1 des is 2
+best split number is 2
+handle edge 4 to 6 now, cur transmission is 8192 , source is 1 des is 0
+best split number is 1
+handle edge 4 to 7 now, cur transmission is 8192 , source is 1 des is 14
+best split number is 2
+handle edge 4 to 8 now, cur transmission is 8192 , source is 1 des is 12
+best split number is 2
+handle edge 4 to 9 now, cur transmission is 8192 , source is 1 des is 11
+best split number is 1
+handle edge 4 to 10 now, cur transmission is 8192 , source is 1 des is 3
+best split number is 2
+handle edge 4 to 11 now, cur transmission is 8192 , source is 1 des is 4
+best split number is 2
+handle edge 4 to 12 now, cur transmission is 8192 , source is 1 des is 13
+best split number is 3
+handle edge 4 to 13 now, cur transmission is 8192 , source is 1 des is 10
+best split number is 2
+handle edge 4 to 14 now, cur transmission is 8192 , source is 1 des is 8
+best split number is 1
+handle edge 4 to 15 now, cur transmission is 8192 , source is 1 des is 7
+best split number is 2
+handle edge 5 to 16 now, cur transmission is 8192 , source is 2 des is 13
+best split number is 1
+handle edge 5 to 38 now, cur transmission is 8192 , source is 2 des is 5
+best split number is 3
+handle edge 7 to 18 now, cur transmission is 8192 , source is 14 des is 8
+best split number is 3
+handle edge 7 to 38 now, cur transmission is 8192 , source is 14 des is 5
+best split number is 2
+handle edge 6 to 17 now, cur transmission is 8192 , source is 0 des is 10
+best split number is 1
+handle edge 6 to 38 now, cur transmission is 8192 , source is 0 des is 5
+best split number is 1
+handle edge 16 to 27 now, cur transmission is 8192 , source is 13 des is 9
+best split number is 1
+handle edge 8 to 19 now, cur transmission is 8192 , source is 12 des is 7
+best split number is 1
+handle edge 8 to 38 now, cur transmission is 8192 , source is 12 des is 5
+best split number is 1
+handle edge 11 to 22 now, cur transmission is 8192 , source is 4 des is 15
+best split number is 1
+handle edge 11 to 38 now, cur transmission is 8192 , source is 4 des is 5
+best split number is 1
+handle edge 9 to 20 now, cur transmission is 8192 , source is 11 des is 2
+best split number is 2
+handle edge 9 to 38 now, cur transmission is 8192 , source is 11 des is 5
+best split number is 2
+handle edge 10 to 21 now, cur transmission is 8192 , source is 3 des is 0
+best split number is 1
+handle edge 10 to 38 now, cur transmission is 8192 , source is 3 des is 5
+best split number is 1
+handle edge 14 to 25 now, cur transmission is 8192 , source is 8 des is 1
+best split number is 1
+handle edge 14 to 38 now, cur transmission is 8192 , source is 8 des is 5
+best split number is 1
+handle edge 12 to 23 now, cur transmission is 8192 , source is 13 des is 9
+best split number is 3
+handle edge 12 to 38 now, cur transmission is 8192 , source is 13 des is 5
+best split number is 3
+handle edge 13 to 24 now, cur transmission is 8192 , source is 10 des is 6
+best split number is 1
+handle edge 13 to 38 now, cur transmission is 8192 , source is 10 des is 5
+best split number is 3
+handle edge 19 to 30 now, cur transmission is 8192 , source is 7 des is 4
+best split number is 3
+handle edge 20 to 31 now, cur transmission is 8192 , source is 2 des is 13
+best split number is 1
+handle edge 18 to 29 now, cur transmission is 8192 , source is 8 des is 1
+best split number is 3
+handle edge 15 to 26 now, cur transmission is 8192 , source is 7 des is 4
+best split number is 1
+handle edge 15 to 38 now, cur transmission is 8192 , source is 7 des is 5
+best split number is 3
+handle edge 17 to 28 now, cur transmission is 8192 , source is 10 des is 6
+best split number is 2
+handle edge 24 to 35 now, cur transmission is 8192 , source is 6 des is 3
+best split number is 1
+handle edge 22 to 33 now, cur transmission is 8192 , source is 15 des is 14
+best split number is 1
+handle edge 21 to 32 now, cur transmission is 8192 , source is 0 des is 10
+best split number is 1
+handle edge 23 to 34 now, cur transmission is 8192 , source is 9 des is 11
+best split number is 2
+handle edge 25 to 36 now, cur transmission is 8192 , source is 1 des is 15
+best split number is 1
+handle edge 26 to 37 now, cur transmission is 8192 , source is 4 des is 5
+best split number is 1
+handle edge 38 to 39 now, cur transmission is 8192 , source is 5 des is 12
+best split number is 1
+handle edge 39 to 40 now, cur transmission is 8192 , source is 12 des is 7
+best split number is 1
+handle edge 39 to 41 now, cur transmission is 8192 , source is 12 des is 2
+best split number is 2
+handle edge 39 to 42 now, cur transmission is 8192 , source is 12 des is 0
+best split number is 2
+handle edge 39 to 43 now, cur transmission is 8192 , source is 12 des is 14
+best split number is 1
+handle edge 39 to 44 now, cur transmission is 8192 , source is 12 des is 12
+handle edge 39 to 45 now, cur transmission is 8192 , source is 12 des is 11
+best split number is 1
+handle edge 39 to 46 now, cur transmission is 8192 , source is 12 des is 8
+best split number is 2
+handle edge 39 to 47 now, cur transmission is 8192 , source is 12 des is 3
+best split number is 2
+handle edge 39 to 48 now, cur transmission is 8192 , source is 12 des is 15
+best split number is 2
+handle edge 39 to 49 now, cur transmission is 8192 , source is 12 des is 5
+best split number is 2
+handle edge 39 to 50 now, cur transmission is 8192 , source is 12 des is 9
+best split number is 2
+handle edge 39 to 51 now, cur transmission is 8192 , source is 12 des is 6
+best split number is 2
+handle edge 40 to 27 now, cur transmission is 8192 , source is 7 des is 9
+best split number is 1
+handle edge 41 to 28 now, cur transmission is 8192 , source is 2 des is 6
+best split number is 3
+handle edge 42 to 29 now, cur transmission is 8192 , source is 0 des is 1
+best split number is 1
+handle edge 45 to 32 now, cur transmission is 8192 , source is 11 des is 10
+best split number is 3
+handle edge 44 to 31 now, cur transmission is 8192 , source is 12 des is 13
+best split number is 2
+handle edge 43 to 30 now, cur transmission is 8192 , source is 14 des is 4
+best split number is 1
+handle edge 46 to 33 now, cur transmission is 8192 , source is 8 des is 14
+best split number is 3
+handle edge 48 to 35 now, cur transmission is 8192 , source is 15 des is 3
+best split number is 1
+handle edge 47 to 34 now, cur transmission is 8192 , source is 3 des is 11
+best split number is 2
+handle edge 49 to 36 now, cur transmission is 8192 , source is 5 des is 15
+best split number is 1
+handle edge 50 to 37 now, cur transmission is 8192 , source is 9 des is 5
+best split number is 3
+-------------
+-------------
+current json is autocor_Mesh4x4_AIR1_free.json
+handle edge 1 to 2 now, cur transmission is 190 , source is 5 des is 9
+best split number is 3
+handle edge 2 to 4 now, cur transmission is 70 , source is 9 des is 1
+best split number is 3
+handle edge 2 to 5 now, cur transmission is 140 , source is 9 des is 4
+best split number is 1
+handle edge 2 to 6 now, cur transmission is 130 , source is 9 des is 13
+best split number is 1
+handle edge 2 to 7 now, cur transmission is 70 , source is 9 des is 10
+best split number is 1
+handle edge 2 to 8 now, cur transmission is 60 , source is 9 des is 8
+best split number is 1
+handle edge 2 to 9 now, cur transmission is 100 , source is 9 des is 7
+best split number is 3
+handle edge 2 to 10 now, cur transmission is 80 , source is 9 des is 2
+best split number is 1
+handle edge 2 to 11 now, cur transmission is 100 , source is 9 des is 6
+best split number is 1
+handle edge 5 to 3 now, cur transmission is 70 , source is 4 des is 0
+best split number is 1
+handle edge 4 to 3 now, cur transmission is 70 , source is 1 des is 0
+best split number is 1
+handle edge 6 to 3 now, cur transmission is 40 , source is 13 des is 0
+best split number is 1
+handle edge 8 to 3 now, cur transmission is 50 , source is 8 des is 0
+best split number is 2
+handle edge 7 to 3 now, cur transmission is 90 , source is 10 des is 0
+best split number is 2
+handle edge 11 to 3 now, cur transmission is 80 , source is 6 des is 0
+best split number is 2
+handle edge 9 to 3 now, cur transmission is 100 , source is 7 des is 0
+best split number is 2
+handle edge 10 to 3 now, cur transmission is 40 , source is 2 des is 0
+best split number is 2
+handle edge 3 to 12 now, cur transmission is 210 , source is 0 des is 14
+best split number is 2
+-------------
+-------------
+current json is H264_Mesh8x8_AIR1_free.json
+handle edge 1 to 2 now, cur transmission is 8192 , source is 27 des is 35
+best split number is 3
+handle edge 2 to 3 now, cur transmission is 8192 , source is 35 des is 28
+best split number is 3
+handle edge 3 to 4 now, cur transmission is 8192 , source is 28 des is 19
+best split number is 4
+handle edge 4 to 5 now, cur transmission is 8192 , source is 19 des is 20
+best split number is 3
+handle edge 4 to 6 now, cur transmission is 8192 , source is 19 des is 11
+best split number is 3
+handle edge 4 to 7 now, cur transmission is 8192 , source is 19 des is 18
+best split number is 2
+handle edge 4 to 8 now, cur transmission is 8192 , source is 19 des is 25
+best split number is 4
+handle edge 4 to 9 now, cur transmission is 8192 , source is 19 des is 51
+best split number is 3
+handle edge 4 to 10 now, cur transmission is 8192 , source is 19 des is 44
+best split number is 1
+handle edge 4 to 11 now, cur transmission is 8192 , source is 19 des is 26
+best split number is 1
+handle edge 4 to 12 now, cur transmission is 8192 , source is 19 des is 43
+best split number is 3
+handle edge 4 to 13 now, cur transmission is 8192 , source is 19 des is 36
+best split number is 1
+handle edge 4 to 14 now, cur transmission is 8192 , source is 19 des is 34
+best split number is 1
+handle edge 4 to 15 now, cur transmission is 8192 , source is 19 des is 29
+best split number is 1
+handle edge 5 to 16 now, cur transmission is 8192 , source is 20 des is 3
+best split number is 1
+handle edge 5 to 38 now, cur transmission is 8192 , source is 20 des is 37
+best split number is 1
+handle edge 7 to 18 now, cur transmission is 8192 , source is 18 des is 17
+best split number is 2
+handle edge 7 to 38 now, cur transmission is 8192 , source is 18 des is 37
+best split number is 1
+handle edge 16 to 27 now, cur transmission is 8192 , source is 3 des is 22
+best split number is 1
+handle edge 8 to 19 now, cur transmission is 8192 , source is 25 des is 24
+best split number is 2
+handle edge 8 to 38 now, cur transmission is 8192 , source is 25 des is 37
+best split number is 1
+handle edge 6 to 17 now, cur transmission is 8192 , source is 11 des is 10
+best split number is 1
+handle edge 6 to 38 now, cur transmission is 8192 , source is 11 des is 37
+best split number is 1
+handle edge 17 to 28 now, cur transmission is 8192 , source is 10 des is 13
+best split number is 2
+handle edge 19 to 30 now, cur transmission is 8192 , source is 24 des is 2
+best split number is 1
+handle edge 14 to 25 now, cur transmission is 8192 , source is 34 des is 21
+best split number is 4
+handle edge 14 to 38 now, cur transmission is 8192 , source is 34 des is 37
+best split number is 3
+handle edge 11 to 22 now, cur transmission is 8192 , source is 26 des is 42
+best split number is 3
+handle edge 11 to 38 now, cur transmission is 8192 , source is 26 des is 37
+best split number is 4
+handle edge 18 to 29 now, cur transmission is 8192 , source is 17 des is 4
+best split number is 1
+handle edge 9 to 20 now, cur transmission is 8192 , source is 51 des is 59
+best split number is 3
+handle edge 9 to 38 now, cur transmission is 8192 , source is 51 des is 37
+best split number is 1
+handle edge 10 to 21 now, cur transmission is 8192 , source is 44 des is 52
+best split number is 1
+handle edge 10 to 38 now, cur transmission is 8192 , source is 44 des is 37
+best split number is 3
+handle edge 21 to 32 now, cur transmission is 8192 , source is 52 des is 16
+best split number is 1
+handle edge 20 to 31 now, cur transmission is 8192 , source is 59 des is 9
+best split number is 1
+handle edge 13 to 24 now, cur transmission is 8192 , source is 36 des is 30
+best split number is 4
+handle edge 13 to 38 now, cur transmission is 8192 , source is 36 des is 37
+best split number is 3
+handle edge 15 to 26 now, cur transmission is 8192 , source is 29 des is 12
+best split number is 1
+handle edge 15 to 38 now, cur transmission is 8192 , source is 29 des is 37
+best split number is 2
+handle edge 12 to 23 now, cur transmission is 8192 , source is 43 des is 33
+best split number is 1
+handle edge 12 to 38 now, cur transmission is 8192 , source is 43 des is 37
+best split number is 1
+handle edge 25 to 36 now, cur transmission is 8192 , source is 21 des is 32
+best split number is 3
+handle edge 23 to 34 now, cur transmission is 8192 , source is 33 des is 41
+best split number is 1
+handle edge 26 to 37 now, cur transmission is 8192 , source is 12 des is 31
+best split number is 1
+handle edge 22 to 33 now, cur transmission is 8192 , source is 42 des is 50
+best split number is 2
+handle edge 24 to 35 now, cur transmission is 8192 , source is 30 des is 38
+best split number is 2
+handle edge 38 to 39 now, cur transmission is 8192 , source is 37 des is 45
+best split number is 2
+handle edge 39 to 40 now, cur transmission is 8192 , source is 45 des is 58
+best split number is 2
+handle edge 39 to 41 now, cur transmission is 8192 , source is 45 des is 53
+best split number is 3
+handle edge 39 to 42 now, cur transmission is 8192 , source is 45 des is 49
+best split number is 4
+handle edge 39 to 43 now, cur transmission is 8192 , source is 45 des is 46
+best split number is 2
+handle edge 39 to 44 now, cur transmission is 8192 , source is 45 des is 40
+best split number is 3
+handle edge 39 to 45 now, cur transmission is 8192 , source is 45 des is 39
+best split number is 2
+handle edge 39 to 46 now, cur transmission is 8192 , source is 45 des is 60
+best split number is 1
+handle edge 39 to 47 now, cur transmission is 8192 , source is 45 des is 23
+best split number is 2
+handle edge 39 to 48 now, cur transmission is 8192 , source is 45 des is 14
+best split number is 3
+handle edge 39 to 49 now, cur transmission is 8192 , source is 45 des is 5
+best split number is 3
+handle edge 39 to 50 now, cur transmission is 8192 , source is 45 des is 1
+best split number is 1
+handle edge 39 to 51 now, cur transmission is 8192 , source is 45 des is 8
+best split number is 1
+handle edge 40 to 27 now, cur transmission is 8192 , source is 58 des is 22
+best split number is 1
+handle edge 42 to 29 now, cur transmission is 8192 , source is 49 des is 4
+best split number is 1
+handle edge 41 to 28 now, cur transmission is 8192 , source is 53 des is 13
+best split number is 3
+handle edge 44 to 31 now, cur transmission is 8192 , source is 40 des is 9
+best split number is 1
+handle edge 43 to 30 now, cur transmission is 8192 , source is 46 des is 2
+best split number is 3
+handle edge 45 to 32 now, cur transmission is 8192 , source is 39 des is 16
+best split number is 1
+handle edge 47 to 34 now, cur transmission is 8192 , source is 23 des is 41
+best split number is 3
+handle edge 46 to 33 now, cur transmission is 8192 , source is 60 des is 50
+best split number is 1
+handle edge 49 to 36 now, cur transmission is 8192 , source is 5 des is 32
+best split number is 3
+handle edge 50 to 37 now, cur transmission is 8192 , source is 1 des is 31
+best split number is 1
+handle edge 48 to 35 now, cur transmission is 8192 , source is 14 des is 38
+best split number is 2
+-------------
+-------------
+current json is fmradio_Mesh8x8_AIR1_free.json
+handle edge 1 to 2 now, cur transmission is 28 , source is 27 des is 35
+best split number is 3
+handle edge 2 to 3 now, cur transmission is 106 , source is 35 des is 28
+best split number is 4
+handle edge 3 to 4 now, cur transmission is 119 , source is 28 des is 19
+best split number is 4
+handle edge 4 to 6 now, cur transmission is 105 , source is 19 des is 34
+best split number is 4
+handle edge 4 to 12 now, cur transmission is 74 , source is 19 des is 26
+best split number is 3
+handle edge 4 to 18 now, cur transmission is 89 , source is 19 des is 43
+best split number is 3
+handle edge 4 to 24 now, cur transmission is 49 , source is 19 des is 36
+best split number is 1
+handle edge 6 to 8 now, cur transmission is 31 , source is 34 des is 44
+best split number is 1
+handle edge 6 to 9 now, cur transmission is 112 , source is 34 des is 42
+best split number is 2
+handle edge 12 to 14 now, cur transmission is 151 , source is 26 des is 29
+best split number is 1
+handle edge 12 to 15 now, cur transmission is 126 , source is 26 des is 20
+best split number is 1
+handle edge 18 to 20 now, cur transmission is 83 , source is 43 des is 11
+best split number is 1
+handle edge 18 to 21 now, cur transmission is 133 , source is 43 des is 18
+best split number is 4
+handle edge 24 to 26 now, cur transmission is 57 , source is 36 des is 25
+best split number is 1
+handle edge 24 to 27 now, cur transmission is 153 , source is 36 des is 51
+best split number is 1
+handle edge 26 to 25 now, cur transmission is 90 , source is 25 des is 30
+best split number is 3
+handle edge 15 to 13 now, cur transmission is 73 , source is 20 des is 37
+best split number is 4
+handle edge 27 to 25 now, cur transmission is 101 , source is 51 des is 30
+best split number is 4
+handle edge 20 to 19 now, cur transmission is 105 , source is 11 des is 33
+best split number is 4
+handle edge 25 to 28 now, cur transmission is 142 , source is 30 des is 10
+best split number is 4
+handle edge 8 to 7 now, cur transmission is 60 , source is 44 des is 21
+best split number is 1
+handle edge 14 to 13 now, cur transmission is 71 , source is 29 des is 37
+best split number is 1
+handle edge 28 to 29 now, cur transmission is 96 , source is 10 des is 52
+best split number is 2
+handle edge 13 to 16 now, cur transmission is 79 , source is 37 des is 12
+best split number is 4
+handle edge 29 to 5 now, cur transmission is 34 , source is 52 des is 45
+best split number is 1
+handle edge 16 to 17 now, cur transmission is 50 , source is 12 des is 24
+best split number is 1
+handle edge 17 to 5 now, cur transmission is 83 , source is 24 des is 45
+best split number is 1
+handle edge 9 to 7 now, cur transmission is 102 , source is 42 des is 21
+best split number is 4
+handle edge 7 to 10 now, cur transmission is 30 , source is 21 des is 17
+best split number is 3
+handle edge 10 to 11 now, cur transmission is 127 , source is 17 des is 50
+best split number is 4
+handle edge 11 to 5 now, cur transmission is 14 , source is 50 des is 45
+best split number is 3
+handle edge 21 to 19 now, cur transmission is 62 , source is 18 des is 33
+best split number is 4
+handle edge 19 to 22 now, cur transmission is 129 , source is 33 des is 3
+best split number is 3
+handle edge 22 to 23 now, cur transmission is 132 , source is 3 des is 59
+best split number is 3
+handle edge 23 to 5 now, cur transmission is 87 , source is 59 des is 45
+best split number is 3
+handle edge 5 to 30 now, cur transmission is 121 , source is 45 des is 41
+best split number is 3
+handle edge 30 to 31 now, cur transmission is 49 , source is 41 des is 38
+best split number is 1
+-------------
+-------------
+current json is fmradio_Mesh4x4_AIR1_free.json
+handle edge 1 to 2 now, cur transmission is 28 , source is 5 des is 9
+best split number is 3
+handle edge 2 to 3 now, cur transmission is 106 , source is 9 des is 6
+best split number is 4
+handle edge 3 to 4 now, cur transmission is 119 , source is 6 des is 1
+best split number is 3
+handle edge 4 to 6 now, cur transmission is 105 , source is 1 des is 8
+best split number is 3
+handle edge 4 to 12 now, cur transmission is 74 , source is 1 des is 4
+best split number is 3
+handle edge 4 to 18 now, cur transmission is 89 , source is 1 des is 13
+best split number is 1
+handle edge 4 to 24 now, cur transmission is 49 , source is 1 des is 10
+best split number is 1
+handle edge 6 to 8 now, cur transmission is 31 , source is 8 des is 3
+best split number is 1
+handle edge 6 to 9 now, cur transmission is 112 , source is 8 des is 15
+best split number is 1
+handle edge 12 to 14 now, cur transmission is 151 , source is 4 des is 7
+best split number is 1
+handle edge 12 to 15 now, cur transmission is 126 , source is 4 des is 2
+best split number is 1
+handle edge 18 to 20 now, cur transmission is 83 , source is 13 des is 0
+best split number is 2
+handle edge 18 to 21 now, cur transmission is 133 , source is 13 des is 14
